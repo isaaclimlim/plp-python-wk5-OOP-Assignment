@@ -67,13 +67,9 @@ dog = Dog("Dog")
 lion = Lion("Lion")
 
 cat.speak()
-cat.eat()
-cat.sleep()
+
 
 dog.speak()
-dog.eat()
-dog.sleep()
+
 
 lion.speak()
-lion.eat()
-lion.sleep()
